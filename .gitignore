@@ -1,0 +1,4 @@
+secret.txt
+logs/
+.env*
+debug/
