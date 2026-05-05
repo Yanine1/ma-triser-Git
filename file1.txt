@@ -1,5 +1,3 @@
-hello test 2
+version a
 
 newline
-newline 2
-todays newline
